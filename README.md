@@ -6,7 +6,7 @@ App em **React Native + TypeScript + Expo Router** para o cidadão acompanhar a 
 
 ## Ficha da CitizenTech
 
-> Revise e ajuste os campos entre colchetes com o que está na Ficha oficial do grupo.
+
 
 | Campo | Conteúdo |
 |---|---|
@@ -15,7 +15,7 @@ App em **React Native + TypeScript + Expo Router** para o cidadão acompanhar a 
 | Quem sofre o problema | Trabalhadores, estudantes, pessoas idosas e pessoas com deficiência que dependem de metrô, trem e ônibus. |
 | Jornada principal | 1. Abrir o app e ver a situação das linhas. 2. Entrar numa linha e conferir estações, lotação, temperatura e equipamentos. 3. Relatar um problema. 4. Acompanhar os próprios relatos. |
 | Solução | App que mostra o estado da rede e permite ao cidadão contribuir com relatos, que também ficam salvos offline. |
-| Integrantes | [nomes e RMs] |
+| Integrantes | Jefferson Junior Alvarez Urbina RM558497 - Gabriel Barros Mazzariol RM555410 |
 
 ## Funcionalidades
 
@@ -41,7 +41,7 @@ App em **React Native + TypeScript + Expo Router** para o cidadão acompanhar a 
 Pré-requisitos: Node.js 20+ e o app **Expo Go** no celular (ou um emulador Android).
 
 ```powershell
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/gabriel-mazza/GLOBAL-MOBILE.git>
 cd deslocai-app
 npm install
 npx expo install --fix
@@ -87,8 +87,13 @@ src/ui.tsx      componentes reutilizáveis
 > Adicione em `docs/` e referencie aqui.
 
 | Linhas | Detalhe | Relatar | Meus relatos | Ajustes |
-|---|---|---|---|---|
-| ![](docs/linhas.png) | ![](docs/detalhe.png) | ![](docs/relatar.png) | ![](docs/relatos.png) | ![](docs/ajustes.png) |
+
+(<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/9bcaefe3-04e5-40ce-9b6d-1ef55f596fb9" />
+(<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/5176bec9-a2a5-46a3-aa93-7a20ae4e434f" />
+(<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/3dbd3ec7-40f2-44dd-b087-92440ea9dc0c" />
+(<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/cbea6098-01dc-4aa9-a130-9e4e8d947f4d" />
+(<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/ce59a521-1279-4576-a9fd-51cc23d9db31" />
+
 
 ## Vídeo de demonstração
 
