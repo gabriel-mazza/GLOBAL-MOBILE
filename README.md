@@ -52,6 +52,8 @@ Escaneie o QR Code com o Expo Go. Por padrão o app usa **dados mock**.
 
 ### Usando o backend C#
 
+REPOSITORIO API:https://github.com/gabriel-mazza/GS-CSHARP.git
+
 1. Suba a API (`dotnet run`) e anote a porta.
 2. Copie `.env.example` para `.env` e preencha:
    - celular físico (mesma rede Wi-Fi): `EXPO_PUBLIC_API_URL=http://IP_DO_SEU_PC:5080`
@@ -97,4 +99,4 @@ src/ui.tsx      componentes reutilizáveis
 
 ## Vídeo de demonstração
 
-[link do vídeo, até 3 min]
+(https://youtu.be/2lagER4WI9U)
